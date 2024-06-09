@@ -21,6 +21,7 @@
 		"vite-plugin-minify": "^1.5.2"
 	},
 	"dependencies": {
+		"phaser": "^3.80.1",
 		"vite-plugin-compression2": "^1.1.1"
 	}
 }
