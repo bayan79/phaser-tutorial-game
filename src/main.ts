@@ -11,7 +11,7 @@ const config: Types.Core.GameConfig = {
         default: 'arcade',
         arcade: {
             gravity: {x: 0, y: 900 },
-            debug: true,
+            debug: false,
         },
     },
     scene: [HelloWorldScene],
